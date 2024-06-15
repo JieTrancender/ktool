@@ -1,0 +1,3 @@
+[submodule "3rd/ltask"]
+	path = 3rd/ltask
+	url = git@github.com:cloudwu/ltask.git
